@@ -5,7 +5,7 @@ public static void main(String args[])
 {
 
 
-System.out.println("Second Java Program");
+System.out.println("Second Java Program is Updated");
 
 }
 
